@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-special-ceil",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create an iterator which rounds each iterated value toward positive infinity.",
   "license": "Apache-2.0",
   "author": {
